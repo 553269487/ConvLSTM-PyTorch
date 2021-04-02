@@ -1,6 +1,14 @@
 
+# A rookie modified ConvLSTM source code
 
-# ConvLSTM-Pytorch
+**Who are supposed to read this repo**
+
+Rookies in deep learning who mistakenly plan to use ConvLSTM for final year project (just like me) or something. Anyone who are familiared with CNN and LSTM will find this repo valueless.
+
+This repo provide a shortpath on how to use the current source code on your dataset. There are some redundant codes because I am also a rookie
+
+## Other repo
+https://github.com/553269487/Video-Prediction-using-PyTorch where deploy ConvLSTM via Pytorch lighting, where the code is more precise and easier to understand.
 
 ## ConvRNN cell
 
